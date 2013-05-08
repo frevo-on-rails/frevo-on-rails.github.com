@@ -1,0 +1,364 @@
+/* css reset */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+    margin-bottom: 50px;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* end reset */
+
+@font-face {
+  src: url("../fonts/TitilliumText25L002.otf");
+  font-family: Titillium Bold;
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/TitilliumText25L004.otf");
+  font-family: Titillium;
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-image: url("../images/bg.png");
+  font-family: "Titillium", Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+
+h2:first-child {
+  margin-top: 60px;
+}
+
+h2 {
+  margin-top: 90px;
+  margin-bottom: 10px;
+  font-family: "Titillium", Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #b21d25;
+}
+
+h3 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: #222222;
+  font-size: 24px;
+}
+
+.container {
+  padding-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 960px;
+  display: block;
+  background-image: url("../images/bg-top.png");
+  background-repeat: no-repeat;
+}
+
+.header {
+  margin: 0;
+  position: relative;
+}
+
+.header .logo {
+  width: 700px;
+  float: left;
+}
+
+.header .logo-for {
+  background: url("../images/logo-for.png") no-repeat;
+  width: 396px;
+  height: 142px;
+  float: left;
+}
+
+.header .presents {
+  font-family: "Titillium", Helvetica, sans-serif;
+  font-size: 23px;
+  color: white;
+  font-weight: 250;
+  float: left;
+  display: block;
+  margin-top: 110px;
+  margin-left: 20px;
+}
+
+.header .logo-apr {
+  background: url("../images/logo-apr.png") no-repeat;
+  width: 341px;
+  height: 111px;
+  clear: left;
+  margin-left: 180px;
+  margin-top: 50px;
+  float: left;
+}
+
+.header .legend {
+  font-family: "Titillium", Helvetica, sans-serif;
+  font-size: 34px;
+  font-weight: 900;
+  text-align: left;
+  color: #981D25;
+  width: 91px;
+  display: block;
+  text-transform: uppercase;
+  margin-top: 45px;
+  margin-left: 10px;
+  float: left;
+  text-shadow: 0 1px 0 #F23346;
+}
+
+.replacement {
+  display: block;
+  text-indent: -9999px;
+  overflow: hidden;
+}
+
+.social-networks {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.github {
+  display: block;
+  width: 140px;
+  height: 50px;
+  background-image: url("../images/logo-github.png");
+}
+
+.github:hover {
+  background-image: url("../images/logo-github-hover.png");
+}
+
+.twitter {
+  display: block;
+  width: 140px;
+  height: 50px;
+  background-image: url("../images/logo-twitter.png");
+}
+
+.twitter:hover {
+  background-image: url("../images/logo-twitter-hover.png");
+}
+
+.facebook {
+  display: block;
+  width: 140px;
+  height: 50px;
+  background-image: url("../images/logo-facebook.png");
+}
+
+.facebook:hover {
+  background-image: url("../images/logo-facebook-hover.png");
+}
+
+.menu {
+  text-align: right;
+  width: 140px;
+  float: left;
+  clear: left;
+}
+
+.fixed {
+  position: fixed;
+  top: 10px;
+}
+
+.menu a {
+  line-height: 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: "Titillium", Helvetica, sans-serif;
+  font-size: 23px;
+  color: #FFFFFF;
+}
+
+.menu .current a, .menu a:hover {
+  color: #b21d25;
+  text-shadow: 0 1px 0 #F23346;
+}
+
+.content {
+  margin-bottom: 20px;
+  width: 700px;
+  padding: 10px 40px;
+  float: right;
+  margin-top: -18px;
+  background-color: #FFFFFF;
+  text-align: left;
+}
+
+.content p {
+  color: #333;
+  margin: 5px 15px 10px 0;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.content a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #b21d25;
+}
+
+#talks {
+  margin-bottom: 30px;
+}
+
+.talk {
+  display: block;
+  position: relative;
+}
+
+.talk li {
+  margin-top: 20px;
+  display: inline-block;
+  list-style-type: none;
+  vertical-align: top;
+}
+
+.talk .guy {
+  width: 70px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.talk .details {
+  width: 580px;
+}
+
+.talk .details h3 {
+  font-family: 'Titillium Bold', Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.talk .details h4 {
+  color: #b21d25;
+}
+
+.talk .details p {
+    font-family: 'Verdana', Helvetica, sans-serif;
+    color: #808080;
+    font-size: 11px;
+    line-height: 14px;
+    text-align: left;
+}
+
+.talk .details h4 .company {
+    color: #999999;
+}
+
+.talk .hour {
+  font-family: 'Titillium', Helvetica, sans-serif;
+  font-size: 23px;
+  color: #B3B3B3;
+  position: absolute;
+  right: 20px;
+  top: 15px;
+}
+
+#locaweb {
+  margin-top: 30px;
+}
+
+#other_sponsors, #other_support {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+#other_sponsors a {
+  margin-right: 50px;
+}
+
+#other_support a {
+  margin-right: 25px;
+}
+
+.footer {
+  clear: both;
+}
+
+.logo_footer {
+  float: left;
+  width: 200px;
+  text-align: center;
+}
+
+.for_footer {
+  color: #FFFFFF;
+  text-align: left;
+  font-size: 24px;
+  float: left;
+  padding-top: 10px;
+}
+
+.links_footer {
+  color: #FFFFFF;
+  float: right;
+  padding-top: 10px;
+}
+
+.links_footer a {
+  text-decoration: none;
+  color: #b21d25;
+}
+
+.for_bold {
+  font-family: 'Titillium Bold', Helvetica, sans-serif;
+}

@@ -1,0 +1,4 @@
+name: FrevoOnRails
+pygments: true
+permalink: /blog/:year/:month/:day/:title/
+permalink: pretty
