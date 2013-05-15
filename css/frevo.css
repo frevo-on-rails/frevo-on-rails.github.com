@@ -1,5 +1,7 @@
 /* css reset */
 
+@import url('typography.css');
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -75,13 +77,13 @@ body {
 
 
 h2:first-child {
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 h2 {
   margin-top: 90px;
-  margin-bottom: 10px;
-  font-family: "Titillium", Helvetica, sans-serif;
+  margin-bottom: 20px;
+  font-family: "Titillium Bold", Helvetica, sans-serif;
   font-weight: normal;
   font-size: 40px;
   text-transform: uppercase;
@@ -166,9 +168,25 @@ h3 {
 }
 
 .social-networks {
+  margin-top: 60px;
+  /*background: #b21d25;*/
+  width: 188px;
+  height: 300px;
   position: absolute;
   right: 0;
   top: 0;
+}
+
+.social-networks img {
+  margin-top: -20px;
+}
+
+.social-networks p {
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #edece9;
 }
 
 .github {
@@ -239,6 +257,10 @@ h3 {
   margin-top: -18px;
   background-color: #FFFFFF;
   text-align: left;
+}
+
+.content h2 {
+  color: #222;
 }
 
 .content p {
@@ -336,14 +358,15 @@ h3 {
 
 .logo_footer {
   float: left;
-  width: 200px;
+  width: 100px;
   text-align: center;
+  margin-left: -30px;
 }
 
 .for_footer {
   color: #FFFFFF;
   text-align: left;
-  font-size: 24px;
+  font-size: 22px;
   float: left;
   padding-top: 10px;
 }
@@ -351,14 +374,28 @@ h3 {
 .links_footer {
   color: #FFFFFF;
   float: right;
-  padding-top: 10px;
+  padding-top: 6px;
 }
 
 .links_footer a {
+  color: #fff;
+  font-size: 14px;
   text-decoration: none;
-  color: #b21d25;
+  text-transform: none;
 }
 
 .for_bold {
   font-family: 'Titillium Bold', Helvetica, sans-serif;
+}
+
+.site .header h1.title a:hover, .site .header a.extra:hover {
+  color: #edece9;
+}
+
+.author {
+  margin-bottom: 20px !important;
+}
+
+.author span {
+  color: #238cd2;
 }
