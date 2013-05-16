@@ -3,14 +3,19 @@ layout: post
 title:  "Site do FrevoOnRails no ar!"
 date:   2013-05-20 19:13:39
 author: Rodrigo Alves Vieira
-author_url: https://twitter.com/rodrigoavie
 categories: posts
 ---
 
-Desde a fundação do FrevoOnRails no começo de 2010 o grupo precisava de um website que servisse para alcançar melhor a comunidade e representar o grupo
+Desde a criação do FrevoOnRails no início de 2010, o ecossistema Ruby e Rails de Pernambuco só tem crescido e
+a gente queria um site/blog para o grupo que fosse complementar à nossa [lista de discussão]. Bem, esse site finalmente saiu e vamos usá-lo como meio de divulgação dos nossos encontros, _drinkups_, materiais de palestras, etc.
 
-Esse é um site open source de um grupo de desenvolvedores open source. Achou um problema? Crie um issue!
+O site foi feito com [Jekyll] e está hospedado no GitHub através do GitHub Pages. O site - claro - é Open Source (licença MIT) e você pode ver o [código no GitHub].
 
-Desde 2010 a galera do FrevoOnRails organizou vários encontros onde aconteceram
+A intenção que temos é que qualquer membro do grupo possa contribuir pro site com melhorias e claro, artigos! A Wiki do projeto tem uma [página explicando como submeter um artigo]. Então se você descobriu algum módulo obscuro do Ruby ou criou algum projeto Ruby Open Source, escreva!
 
 Vamos crescer essa comunidade!
+
+[lista de discussão]: https://groups.google.com/forum/?fromgroups#!forum/frevo-on-rails
+[Jekyll]: http://jekyllrb.com/
+[código no GitHub]: https://github.com/frevo-on-rails/frevo-on-rails.github.com/
+[página explicando como submeter um artigo]: https://github.com/frevo-on-rails/frevo-on-rails.github.com/wiki/Escreva-no-Blog
