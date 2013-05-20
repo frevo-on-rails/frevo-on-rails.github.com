@@ -276,6 +276,12 @@ h3 {
   color: #b21d25;
 }
 
+#post a {
+   font-size: 16px;
+   text-transform: none;
+   line-height: 24px;
+}
+
 #talks {
   margin-bottom: 30px;
 }
