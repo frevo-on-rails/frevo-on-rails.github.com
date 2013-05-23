@@ -15,6 +15,7 @@ Se você quer ajudar mas não sabe com o quê, dê uma olhada nos [Issues existe
 # Autores
 
 * Rodrigo Alves Vieira - rodrigovieira1994 [at] gmail [dot] com
+* Sérgio Fontes - sergio [at] redu [dot] com [dot] br
 
 # Colaboradores
 
