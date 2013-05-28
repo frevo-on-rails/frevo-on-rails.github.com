@@ -14,6 +14,9 @@ Os palestrantes foram dos mais diferentes níveis e esse post é para divulgar o
 
 ### [Workshop de introdução a Ruby/Rails - Bruno Luigi](https://www.dropbox.com/s/jscc2kviune8xxq/Apresentacao%20Abril%20por%20Ruby%202013%20.pdf)
 
+### Ruby 2.0, o que era bom ficou melhor ainda - Bruno Andrade
+<iframe src="http://www.slideshare.net/slideshow/embed_code/20090544" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/bruno77/apresentacao-abril-proruby2013" title="Apresentacao abril pro_ruby2013" target="_blank">Apresentacao abril pro_ruby2013</a> </strong> from <strong><a href="http://www.slideshare.net/bruno77" target="_blank">Bruno Andrade</a></strong> </div>
+
 ### Ruby e o Mundo Mágico dos Unicórnios - Lailson Bandeira
 <script class="speakerdeck-embed" data-id="891bcb3017f10130081322000a1d8a59" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">  </script>
 
