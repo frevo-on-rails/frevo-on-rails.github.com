@@ -26,7 +26,7 @@ Os palestrantes foram dos mais diferentes níveis e esse post é para divulgar o
 ### [Vulnerabilidades no ecossistema Ruby - Tiago Sales](https://www.dropbox.com/s/c9nsfz9k6xhopd8/APRBVulnerabilidades.pdf)
 
 ### A fantasia dos Testes de Integração - Lukas Alexandre
-<script async class="speakerdeck-embed" data-id="3a92cee0a95e013025e72e68962302e1" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
+<script class="speakerdeck-embed" data-id="3a92cee0a95e013025e72e68962302e1" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Conhecendo o Sinatra.rb - Brunno Gomes
 <script class="speakerdeck-embed" data-id="270bc20091910130db570eca1c00232d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">     </script>
