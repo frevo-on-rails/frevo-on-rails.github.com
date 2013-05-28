@@ -20,15 +20,13 @@ Os palestrantes foram dos mais diferentes níveis e esse post é para divulgar o
 ### Reescrevendo código, agora com Rails - Walmir Neto
 <iframe src="http://prezi.com/embed/k5wfl-88o0wt/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="693" height="504" frameBorder="0">   </iframe>
 
-
-
 ### Conteúdo estático com Jekyll - Rodrigo Vieira
 <script class="speakerdeck-embed" data-id="0bb9bcd0884101301b3e123138154c25" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">     </script>   
 
 ### [Vulnerabilidades no ecossistema Ruby - Tiago Sales](https://www.dropbox.com/s/c9nsfz9k6xhopd8/APRBVulnerabilidades.pdf)
 
 ### A fantasia dos Testes de Integração - Lukas Alexandre
-Faltando!!
+<script async class="speakerdeck-embed" data-id="3a92cee0a95e013025e72e68962302e1" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Conhecendo o Sinatra.rb - Brunno Gomes
 <script class="speakerdeck-embed" data-id="270bc20091910130db570eca1c00232d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">     </script>
