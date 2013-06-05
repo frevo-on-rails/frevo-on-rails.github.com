@@ -8,7 +8,7 @@ categories: posts, eventss
 
 O próximo encontro do Frevo On Rails, primeiro após o Abril pro Ruby, será no próximo mês de Julho. O organizador do encontro será Marcos Brizeno. "Vamos abrir espaço para três palestrantes, com duração de ~30 minutos, e no final realizar uma mesa redonda sobre dificuldades em manter aplicações RoR (monolítico vs pequenos apps, Ruby vs Jruby, SQL vs NoSQL, etc.)." afirma Marcos.
 
-No encontro, já temos confirmada a palestra de Guilherme Carvalho(Guava): MVC(S)? - A camada de serviços as demais ainda serão confirmadas.
+No encontro, já temos confirmada a palestra de Guilherme Carvalho(Guava): MVC(S)? - A camada de serviços. As demais palestras ainda serão confirmadas.
 
 Local: Auditório do ITBC
 Data: 06 de Julho
