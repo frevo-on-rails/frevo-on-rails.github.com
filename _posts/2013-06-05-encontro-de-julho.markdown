@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Encontro do Julho"
+title:  "Encontro de Julho"
 date:   2013-06-20 12:00:00
 author: Thiago Diniz
 categories: posts, eventss
