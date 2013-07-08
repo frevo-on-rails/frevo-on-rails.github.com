@@ -16,7 +16,7 @@ O próximo encontro do Frevo On Rails, primeiro após o Abril pro Ruby, será no
 
 #### MVC(S)? - A camada de serviços ####
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/8kU8C16SheI" frameborder="0" ></iframe>
+<iframe width="480" height="360" src="//www.youtube.com/embed/8kU8C16SheI" frameborder="0" >           </iframe>
 
 ----------------------------------------
 
@@ -26,7 +26,7 @@ O próximo encontro do Frevo On Rails, primeiro após o Abril pro Ruby, será no
 
 Existem várias formas de organizar os seus specs. Nesta palestra, tomando exemplos concretos como base, exponho algumas técnicas de reuso e proponho heurísticas para decidir para qual caso o uso de cada uma é adequado.
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/yfK9VxjXSWM" frameborder="0" ></iframe>
+<iframe width="480" height="360" src="//www.youtube.com/embed/yfK9VxjXSWM" frameborder="0" >  </iframe>
 
 ----------------------------------------
 

@@ -15,7 +15,7 @@ Os palestrantes foram dos mais diferentes níveis e esse post é para divulgar o
 ### [Workshop de introdução a Ruby/Rails - Bruno Luigi](https://www.dropbox.com/s/jscc2kviune8xxq/Apresentacao%20Abril%20por%20Ruby%202013%20.pdf)
 
 ### Ruby 2.0, o que era bom ficou melhor ainda - Bruno Andrade
-<iframe src="http://www.slideshare.net/slideshow/embed_code/20090544" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/bruno77/apresentacao-abril-proruby2013" title="Apresentacao abril pro_ruby2013" target="_blank">Apresentacao abril pro_ruby2013</a> </strong> from <strong><a href="http://www.slideshare.net/bruno77" target="_blank">Bruno Andrade</a></strong> </div>
+&#x20;<iframe src="http://www.slideshare.net/slideshow/embed_code/20090544" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe><div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/bruno77/apresentacao-abril-proruby2013" title="Apresentacao abril pro_ruby2013" target="_blank">Apresentacao abril pro_ruby2013</a> </strong> from <strong><a href="http://www.slideshare.net/bruno77" target="_blank">Bruno Andrade</a></strong> </div>
 
 ### Ruby e o Mundo Mágico dos Unicórnios - Lailson Bandeira
 <script class="speakerdeck-embed" data-id="891bcb3017f10130081322000a1d8a59" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">  </script>
@@ -24,7 +24,7 @@ Os palestrantes foram dos mais diferentes níveis e esse post é para divulgar o
 <iframe src="http://prezi.com/embed/k5wfl-88o0wt/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="693" height="504" frameBorder="0">   </iframe>
 
 ### Conteúdo estático com Jekyll - Rodrigo Vieira
-<script class="speakerdeck-embed" data-id="0bb9bcd0884101301b3e123138154c25" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">     </script>   
+<script class="speakerdeck-embed" data-id="0bb9bcd0884101301b3e123138154c25" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">     </script>
 
 ### [Vulnerabilidades no ecossistema Ruby - Tiago Sales](https://www.dropbox.com/s/c9nsfz9k6xhopd8/APRBVulnerabilidades.pdf)
 
@@ -37,11 +37,11 @@ Os palestrantes foram dos mais diferentes níveis e esse post é para divulgar o
 
 ### Metaprogramação com Ruby - Marcos Brizeno
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/20096735" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px">    </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/marcosbrizeno/abril-proruby" title="Metaprogramação Ruby" target="_blank">Metaprogramação Ruby</a> </strong> from <strong><a href="http://www.slideshare.net/marcosbrizeno" target="_blank">Marcos Brizeno</a></strong> </div>
+&#x20;<iframe src="http://www.slideshare.net/slideshow/embed_code/20096735" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px">    </iframe><div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/marcosbrizeno/abril-proruby" title="Metaprogramação Ruby" target="_blank">Metaprogramação Ruby</a> </strong> from <strong><a href="http://www.slideshare.net/marcosbrizeno" target="_blank">Marcos Brizeno</a></strong> </div>
 
 
 
-Nós da organização agradecemos a presença de todos, aos patrocinadores: [Ubee](http://www.ubee.in/), [Bemind](http://www.bemind.com.br/), [Tempest](http://www.tempest.com.br/), [Guava](guava.com.br), [LA](http://www.lainformatica.com.br/), [Faculdade Marista](http://faculdademarista.com.br/); 
+Nós da organização agradecemos a presença de todos, aos patrocinadores: [Ubee](http://www.ubee.in/), [Bemind](http://www.bemind.com.br/), [Tempest](http://www.tempest.com.br/), [Guava](guava.com.br), [LA](http://www.lainformatica.com.br/), [Faculdade Marista](http://faculdademarista.com.br/);
 
 Avisamos: ano que vem tem de novo! Para os que quiserem ajudar, basta aparecer nos encontros do Frevo On Rails.
 
