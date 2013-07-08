@@ -1,2 +1,25 @@
 *.DS_Store
 _site
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+.com.apple.*
+
+# IDE generated files #
+#######################
+*.esproj
+*.esproj?
+.project
+.project?
+.loadpath
+.settings?
+.*.sw[a-z]
+nb*
+.classpath
+.settings/
+*.NavData
