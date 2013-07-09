@@ -282,6 +282,10 @@ h3 {
    line-height: 24px;
 }
 
+#post img {
+  max-width: 700px;
+}
+
 #talks {
   margin-bottom: 30px;
 }
