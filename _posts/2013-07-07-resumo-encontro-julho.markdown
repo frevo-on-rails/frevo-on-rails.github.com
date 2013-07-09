@@ -12,7 +12,7 @@ O XVI encontro do FrevoOnRails aconteceu [como anunciado] neste sábado (06 de J
 
 As palestras dadas foram de nível intermediário e avançado e os palestrantes puderam mostrar o que usam nos seus projetos reais no dia-a-dia. Não faltou espaço para falar de boas práticas :)
 
-## Material
+## Palestras
 
 As palestras foram todas gravadas e você pode conferir os materiais abaixo:
 
