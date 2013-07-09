@@ -14,7 +14,7 @@ As palestras dadas foram de nível intermediário e avançado e os palestrantes 
 
 ## Material
 
-As palestras foram todas gravadas e você pode conferir os materias abaixo:
+As palestras foram todas gravadas e você pode conferir os materiais abaixo:
 
 ### Reuso em RSpec: quando e como - Lucas Marinho (Guava)
 
@@ -33,9 +33,9 @@ https://twitter.com/MarcosBrizenoslides: [https://speakerdeck.com/gvc/the-missin
 <iframe width="420" height="315" src="//www.youtube.com/embed/M4nCayrcmnU" frameborder="0" >   </iframe>
 
 <br>
-Um agradecimento e parabéns ao [Marcos Brizeno], da ThoughtWorks. Pessoa e empresa que ficaram que responsáveis por esse evento que deu muito certo.
+Um agradecimento e parabéns ao [Marcos Brizeno], da ThoughtWorks. Pessoa e empresa que ficaram responsáveis por esse evento que deu muito certo.
 
-O próximo encontro do Frevo será organizado pela equipe do [Redu] e em breve anunciaremos a data e local.
+O próximo encontro do Frevo será organizado pelo [Redu] e em breve anunciaremos a data e local.
 
 [como anunciado]: http://frevoonrails.com.br/blog/2013/06/20/encontro-de-julho/
 [Marcos Brizeno]: https://twitter.com/MarcosBrizeno
