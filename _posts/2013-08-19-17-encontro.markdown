@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Encontro Setembro/2013"
+date:   2013-08-19 17:00:00
+author: Juliana Lucena
+categories: posts, events
+---
+
+O nosso 17º encontro acontecerá no dia 14 de Setembro e, como de costume, será no Auditório do [ITBC](http://goo.gl/cD7Rcx). Neste encontro teremos quatro palestras (máximo de 30 minutos) e uma mesa redonda.
+
+## Agenda ##
+
+- **9h** - Redu Walled Garden
+- **9h30** - Sistemas de recomendação com Ruby
+- **10h** - *Coffee Break*
+- **10h30** - Opções de deploy: como a Cláudia pode te ajudar
+- **11h** - Designing Great APIs
+- **11h30** - Mesa redonda sobre a [RubyConf Brasil 2013](http://www.rubyconf.com.br/)
+
+## Palestras ##
+
+### Redu Walled Garden ##
+por Guilherme Cavalcanti e Tiago Ferreira ([Redutech](http://tech.redu.com.br/))
+
+Apresentará as motivações e lições aprendidas na criação de uma aplicação de larga escala orientada a serviços. Entenda como fatores como performance, estilos de comunicação e produtividade da equipe relacionam-se à estruturação de uma aplicação.
+
+**Sobre [Guilherme](https://github.com/guiocavalcanti)**: Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa Redu Educational Technologies. Fascinado por sistemas distribuídos e aplicações baseadas em rede. Ciclista for fun and profit.
+
+**Sobre [Tiago](https://github.com/fltiago)**: Adoro Ruby, banco de dados relacionais e, agora, não-relacionais. Tenho um relacionamento de amor e ódio com desenvolvimento Web client-side. Sócio do Redu Educational Technologies e formado em Ciência da Computação pela UFPE/CIn.
+
+### Sistemas de recomendação com Ruby
+por Marcel Caraciolo ([PyCursos](http://pycursos.com))
+
+ Apresentará a biblioteca Recommendable e como é possível construir, através dela, um sistema de recomendação colaborativo em memória com Ruby. Também será levantada uma discussão sobre o uso de Machine Learning com Ruby.
+
+ **Sobre [Marcel](https://github.com/marcelcaraciolo)**: CIO do Atépassar, CEO do PyCursos e cientista de dados com especialidade em sistemas de recomendação e com fome de dados. Membro do Grupo de Usuarios de Python de Pernambuco e engantinhando nas artes ocultas rubysticas.
+
+### Opções de deploy: como a Cláudia pode te ajudar
+por Lailson Bandeira ([Guava](http://guava.com.br))
+
+Em breve.
+
+ **Sobre [Lailson](https://github.com/lailsonbm)**: em breve.
+
+### Designing Great APIs
+por Fernando Kakimoto ([ThoughtWorks](http://www.thoughtworks.com/))
+
+Em breve.
+
+ **Sobre [Fernando](https://github.com/nandokakimoto)**: em breve.
+
+
+### Mesa Redonda
+por todos
+
+ Abordaremos assuntos relacionados a [RubyConf Brasil 2013](http://www.rubyconf.com.br/).
+
+##Marque sua presença
+
+<iframe src="http://www.eventick.com.br/frevo-on-rails-setembro-2013/embedded" frameborder="0" height="280px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"> </iframe>
+
+##Apoio
+
+- [![Redutech](/images/logo-redutech.png)](http://tech.redu.com.br)
+- [![Guava](/images/logo-guava.png)](http://guava.com.br)
