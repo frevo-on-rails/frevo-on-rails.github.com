@@ -45,9 +45,9 @@ Em breve.
 ### Designing Great APIs
 por Fernando Kakimoto ([ThoughtWorks](http://www.thoughtworks.com/))
 
-Em breve.
+Abordará algumas das boas práticas relacionadas ao projeto de Web APIs, bem como os principais tópicos relacionados a construção de uma API, tais como, versionamento e segurança. O objetivo da palestra é apresentar o conceito de RESTful Web Services e mostrar exemplos de implementação com o framework Rails.
 
- **Sobre [Fernando](https://github.com/nandokakimoto)**: em breve.
+ **Sobre [Fernando](https://github.com/nandokakimoto)**:  Formado em Ciência da Computação pelo CIn/UFPE, atua há mais de 5 anos como engenheiro de software. Atualmente, trabalha como desenvolvedor Rails na ThoughtWorks Recife. Suas áreas de interesse incluem desenvolvimento Web, desenvolvimento ágil e projeto e arquitetura de sistemas.
 
 
 ### Mesa Redonda
