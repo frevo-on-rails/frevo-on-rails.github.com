@@ -38,9 +38,10 @@ por Marcel Caraciolo ([PyCursos](http://pycursos.com))
 ### Opções de deploy: como a Cláudia pode te ajudar
 por Lailson Bandeira ([Guava](http://guava.com.br))
 
-Em breve.
+"Em menos de uma década, a computação em nuvem ("the cloud") revolucionou a forma como nós colocamos aplicações no ar. Mas hoje existem tantas opções que é difícil saber qual a mais adequada para as suas necessidades. Se você tem dúvidas sobre quando usar Heroku, AppFog, Engine Yard ou um dos milhares de serviços oferecidos pelo AWS, esta palestra é pra você, meu jovem Padawan!"
 
- **Sobre [Lailson](https://github.com/lailsonbm)**: em breve.
+ **Sobre [Lailson](https://github.com/lailsonbm)**: Co-fundador e desenvolvedor da Guava Software, uma consultoria e estúdio de criação de aplicações web com foco em Ruby. Fundador do Frevo on Rails, o Grupo de Usuários Ruby de Pernambuco. Mestre em Ciência da Computação pela Centro de Informática da UFPE e membro do grupo de pesquisa Visão e Inteligência Computacional (VIISAR).
+
 
 ### Designing Great APIs
 por Fernando Kakimoto ([ThoughtWorks](http://www.thoughtworks.com/))
