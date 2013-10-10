@@ -14,7 +14,7 @@ O nosso 18º encontro acontecerá no dia 26 de Outubro no Auditório do [Conecta
 - **9h30** - O Presente e o Futuro (Próximo) da Web
 - **10h** - *Coffee Break*
 - **10h30** - Descobrindo APIs REST
-- **11h** - Em Definição
+- **11h** - Da Água para o Vinho
 - **11h30** - Mesa Redonda e sorteios
 
 ## Palestras ##
@@ -40,10 +40,12 @@ O crescimento do mercado mobile e a necessidade de prover acesso a serviços exi
 
 **Sobre [Guilherme](https://github.com/guiocavalcanti)**: Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa [Redutech](http://tech.redu.com.br). Fascinado por sistemas distribuídos e aplicações baseadas em rede. Ciclista for fun and profit.
 
-### Palestra 4 - Em Definção
-por Em Definição
+### Da Água para o Vinho
+por Francisco Pimentel e Filipe Magalhães ([Say2me](http://say2me.com.br))
 
-Tema da Palestra: Em definição
+O Say2me, melhor canal de comunicação Recifense cliente-gerência em linha reta do mundo, iniciou seu MVP para validação nos primórdios de 2011. Neste passado tão tão distante, nascia, em PHP, um filhote de sistema com pouco mais de 3 tabelas e uma arquitetura promissora. À medida que a fama foi chegando e os clientes batendo na porta, surgia a demanda de novas e arrasadoras funcionalidades. Foi nesse momento que milagrosamente, transformamos a água em vinho. O Say2me iniciou seu desenvolvimento em Rails e desde essa época evoluímos muito nosso Surf e habilidades com Skate. Não perca a história da ascensão meteórica do Say2me. 
+
+**Sobre [Chico](https://github.com/chicofilho) e [Filipe](https://github.com/filipe0513)** Co-fundadores e desenvolvedores do Say2me
 
 ### Mesa Redonda
 por todos
