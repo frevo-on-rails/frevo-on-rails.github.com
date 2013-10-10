@@ -36,7 +36,7 @@ por Lailson Bandeira ([Guava](http://guava.com.br))
 ### Descobrindo APIs REST
 por Guilherme Cavalcanti ([Redutech](http://tech.redu.com.br))
 
-O crescimento do mercado mobile e a necessidade de prover acesso a serviços existentes para desenvolvedores terceiros popularizaram o uso e disponibilização de [APIs REST](http://en.wikipedia.org/wiki/Representational_state_transfer) públicas. Com isso, pontos como escalabilidade, versionamento, desacoplamento e encapsulamento tornaram-se centrais no projeto de APIs. Nesta palastra será apresentado o conceito de APIs Hypermedia e como seu uso ajudar no projeto e implementação de APIs mais flexíveis.
+O crescimento do mercado mobile e a necessidade de prover acesso a serviços existentes para desenvolvedores terceiros popularizaram o uso e disponibilização de [APIs REST](http://en.wikipedia.org/wiki/Representational_state_transfer) públicas. Com isso, pontos como escalabilidade, versionamento, desacoplamento e encapsulamento tornaram-se centrais no projeto de APIs. Nesta palestra será apresentado o conceito de APIs Hypermedia e como seu uso ajuda no projeto e implementação de APIs mais flexíveis.
 
 **Sobre [Guilherme](https://github.com/guiocavalcanti)**: Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa [Redutech](http://tech.redu.com.br). Fascinado por sistemas distribuídos e aplicações baseadas em rede. Ciclista for fun and profit.
 
