@@ -13,7 +13,7 @@ O nosso 18º encontro acontecerá no dia 26 de Outubro no Auditório do [Conecta
 - **9h** - Palestra Luiz Borba - Tema em Definição
 - **9h30** - O Presente e o Futuro (Próximo) da Web
 - **10h** - *Coffee Break*
-- **10h30** - Em Definição
+- **10h30** - Descobrindo APIs REST
 - **11h** - Em Definição
 - **11h30** - Mesa Redonda e sorteios
 
@@ -33,11 +33,12 @@ por Lailson Bandeira ([Guava](http://guava.com.br))
 
 **Sobre [Lailson](https://github.com/lailsonbm)**: Co-fundador e desenvolvedor da Guava Software, uma consultoria e estúdio de criação de aplicações web com foco em Ruby. Fundador do Frevo on Rails, o Grupo de Usuários Ruby de Pernambuco. Mestre em Ciência da Computação pela Centro de Informática da UFPE e membro do grupo de pesquisa Visão e Inteligência Computacional (VIISAR).
 
-### Palestra 3 - Em Definção
-por Em Definição
+### Descobrindo APIs REST
+por Guilherme Cavalcanti ([Redutech](http://tech.redu.com.br))
 
-Tema da Palestra: Em definição
+O crescimento do mercado mobile e a necessidade de prover acesso a serviços existentes para desenvolvedores terceiros popularizaram o uso e disponibilização de [APIs REST](http://en.wikipedia.org/wiki/Representational_state_transfer) públicas. Com isso, pontos como escalabilidade, versionamento, desacoplamento e encapsulamento tornaram-se centrais no projeto de APIs. Nesta palastra será apresentado o conceito de APIs Hypermedia e como seu uso ajudar no projeto e implementação de APIs mais flexíveis.
 
+**Sobre [Guilherme](https://github.com/guiocavalcanti)**: Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa [Redutech](http://tech.redu.com.br). Fascinado por sistemas distribuídos e aplicações baseadas em rede. Ciclista for fun and profit.
 
 ### Palestra 4 - Em Definção
 por Em Definição
