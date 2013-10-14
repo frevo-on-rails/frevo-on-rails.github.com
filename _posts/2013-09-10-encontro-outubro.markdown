@@ -10,7 +10,7 @@ O nosso 18º encontro acontecerá no dia 26 de Outubro no Auditório do [Conecta
 
 ## Agenda ##
 
-- **9h** - Palestra Luiz Borba - Tema em Definição
+- **9h** - As Coisas Mudam
 - **9h30** - O Presente e o Futuro (Próximo) da Web
 - **10h** - *Coffee Break*
 - **10h30** - Descobrindo APIs REST
@@ -19,10 +19,10 @@ O nosso 18º encontro acontecerá no dia 26 de Outubro no Auditório do [Conecta
 
 ## Palestras ##
 
-### Palestra Luiz Borba ##
+### As Coisas Mudam ##
 por Luiz Borba ([CESAR](http://www.cesar.org.br))
 
-Tema Palestra: em Definição.
+Uma reflexão sobre coisas que mudaram e afetaram a carreira do palestrante nos últimos 20 anos.
 
 **Sobre [Luiz Borba](http://borba.blog.br)**: Graduado em Ciência da Computação pela UFPE. Atua desde 1991 em desenvolvimento de software. No C.E.S.A.R desde 2001, atuou como arquiteto de software em grandes projetos de referência nacional. Mais recentemente tornou-se especialista e consultor em métodos ágeis de desenvolvimento de software, tendo implantado com sucesso em algumas empresas do porto digital.
 
