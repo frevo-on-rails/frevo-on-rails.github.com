@@ -33,7 +33,7 @@ por Bruno Andrade ([Desenvolvedor Independente](https://github.com/brunoandradd)
 "Nesta palestrar irei mostrar o poder e a simplicidade dos Rack Middleware, o que se pode ser feito e mostrar que sua app Rails também é um Rack Middleware."
 
 ### Tratamento de Exceção com Rails
-por Brunno Gomes ([LA Tecnologia em saúde](http://www.latecnologiaemsaude.com/))
+por Brunno Gomes ([LA Tecnologia em saúde](http://www.latecnologiaemsaude.com.br/))
 
 ### Mesa Redonda
 por todos
