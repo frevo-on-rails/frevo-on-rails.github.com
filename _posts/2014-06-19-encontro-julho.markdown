@@ -19,6 +19,10 @@ Neste encontro teremos 4 palestras sobre os mais diversos temas. Caso você quer
 - 11:20 - 12:00: _A definir_
 - 12:00 - 12:40: _A definir_
 
+## Inscrições
+
+<iframe allowtransparency="true" frameborder="0" height="280px" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" src="http://even.tc/21-frevo-on-rails/embedded" vspace="0" width="100%"> </iframe>
+
 ## Organização
 
 [![Eloquent
