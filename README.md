@@ -4,7 +4,8 @@ O website do grupo de usuários de Ruby e Rails de Pernambuco!
 
 # Instruções
 
-`$ jekyll serve --watch` - Inicia o servidor na porta 4000
+1. Instale as dependências usando `bundle install`
+2. Inicie o servidor de desenvolvimento usando `$ jekyll serve --watch`
 
 # Contribuições
 
