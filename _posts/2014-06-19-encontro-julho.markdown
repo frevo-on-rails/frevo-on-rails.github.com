@@ -13,11 +13,12 @@ Após o sucesso do [Abril pro Ruby 2014](http://abrilproruby.com/pt/), voltamos 
 Neste encontro teremos 4 palestras sobre os mais diversos temas. Caso você queria palestrar, basta responder [este post](https://groups.google.com/forum/#!topic/frevo-on-rails/5LXMberj2MI) da nossa lista de emails.
 
 - 9:00 - 9:10: Abertura
-- 9:15 - 9:55: Monitoramento de tarefas assíncronas
-- 10:00 - 10:40: Construindo sistemas resilientes com Circuit Breaker.
-- 10:40 - 11:15: Intervalo de coffee break
-- 11:20 - 12:00: Resultados do Abril Pro Ruby 2014
-- 12:00 - 12:40: _A definir_
+- 9:10 - 9:40: Monitoramento de tarefas assíncronas — Airton Sampaio (Ubee)
+- 9:45 - 10:15: Construindo sistemas resilientes com Circuit Breaker — Guilherme Cavalcanti (Eloquent Studio)
+- 10:20 - 10:50: Intervalo de coffee break
+- 10:55 - 11:25: Resultados do Abril Pro Ruby 2014
+- 11:30 - 12:00: _A definir_ — Lailson Bandeira (Guava)
+
 
 ## Inscrições
 
