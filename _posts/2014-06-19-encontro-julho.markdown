@@ -17,7 +17,7 @@ Neste encontro teremos 4 palestras sobre os mais diversos temas. Caso você quer
 - 9:45 - 10:15: Construindo sistemas resilientes com Circuit Breaker — Guilherme Cavalcanti (Eloquent Studio)
 - 10:20 - 10:50: Intervalo de coffee break
 - 10:55 - 11:25: Resultados do Abril Pro Ruby 2014
-- 11:30 - 12:00: _A definir_ — Lailson Bandeira (Guava)
+- 11:30 - 12:00: Objects on Rails — Lailson Bandeira (Guava)
 
 
 ## Inscrições
