@@ -27,11 +27,11 @@ Ilha do Leite, Recife - PE
 ## Agenda
 
 - 9:00  - 9:10  : Abertura
-- 9:10  - 9:40  : (anúncio em breve)
-- 9:45  - 10:15 : (anúncio em breve)
+- 9:10  - 9:40  : Arthur Alvim - Escavando a WEB com Scrapy
+- 9:45  - 10:15 : Thaís Bione - A Definir
 - 10:20 - 10:50 : Intervalo de coffee break
-- 10:55 - 11:25 : (anúncio em breve)
-- 11:30 - 12:00 : (anúncio em breve)
+- 10:55 - 11:25 : Luan Fonceca - Oxente, Python PT-BR-NE
+- 11:30 - 12:00 : Discussão Aberta
 
 ## Inscrições
 
