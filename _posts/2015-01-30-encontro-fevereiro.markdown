@@ -6,7 +6,7 @@ author     : Luiz Borba
 categories : posts, events
 ---
 
-Não exagerem no carnaval, porque logo depois dos festejos momescos, vamos ter o nosso primeiro encontro do ano. O Encontro da Ressaca! 
+Não exagerem no carnaval, porque logo depois dos festejos momescos, vamos ter o nosso primeiro encontro do ano. O Encontro da Ressaca!
 
 Vamos realizar este primeiro encontro do ano e último antes do [Tropical Ruby](http://tropicalrb.com) no auditório do [CESAR.EDU](http://www.cesar.edu.br), na Rua do Brum, 77 - Bairro do Recife.
 
@@ -24,9 +24,13 @@ Bairro do Recife, Recife - PE
 
 CEP 50030-260 - Brasil
 
-## Agenda (ainda a ser definida)
+## Agenda (09:00 - 12:00)
 
-- 9:00  - 12:00  : Encontro
+- **Tiago Ferreira**: (palestra a ser definida)
+- **Juliana Lucena**: "Fulltext search hell, como estruturar um sistema de busca desacoplado"
+- **Luiz Borba**: "O Futuro Atual da Programação"
+- **Painel**: "Ruby além de Rails: outras opções para desenvolvimento pra web"
+
 
 ## Inscrições
 
