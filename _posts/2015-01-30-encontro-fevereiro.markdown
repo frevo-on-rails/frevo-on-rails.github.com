@@ -10,8 +10,6 @@ Não exagerem no carnaval, porque logo depois dos festejos momescos, vamos ter o
 
 Vamos realizar este primeiro encontro do ano e último antes do [Tropical Ruby](http://tropicalrb.com) no auditório do [CESAR.EDU](http://www.cesar.edu.br), na Rua do Brum, 77 - Bairro do Recife.
 
-Se você quer palestrar nesse encontro, submeta sua palestra no nosso [grupo](https://groups.google.com/forum/#!forum/frevo-on-rails).
-
 Se inscreva no [Eventick](http://www.eventick.com.br/frevoonrails_fev2015), confirme sua participação no [Facebook](https://www.facebook.com/events/428589193965260) e chame a galera! Compartilhe no Twitter e Facebook e venha fazer parte deste encontro!
 
 ## Data e Local
@@ -26,7 +24,7 @@ CEP 50030-260 - Brasil
 
 ## Agenda (09:00 - 12:00)
 
-- **Tiago Ferreira**: (palestra a ser definida)
+- **Tiago Ferreira**: ActiveModel no reino das APIs: Tratando os Erros
 - **Juliana Lucena**: "Fulltext search hell, como estruturar um sistema de busca desacoplado"
 - **Luiz Borba**: "O Futuro Atual da Programação"
 - **Painel**: "Ruby além de Rails: outras opções para desenvolvimento pra web"
