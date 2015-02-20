@@ -24,11 +24,10 @@ CEP 50030-260 - Brasil
 
 ## Agenda (09:00 - 12:00)
 
-- **Tiago Ferreira**: ActiveModel no reino das APIs: Tratando os Erros
+- **Lailson Bandeira**: "Ruby e o Mundo Mágico dos Unicórnios"
+- **Tiago Ferreira**: "ActiveModel no reino das APIs: Tratando os Erros"
 - **Juliana Lucena**: "Fulltext search hell, como estruturar um sistema de busca desacoplado"
 - **Luiz Borba**: "O Futuro Atual da Programação"
-- **Painel**: "Ruby além de Rails: outras opções para desenvolvimento pra web"
-
 
 ## Inscrições
 
