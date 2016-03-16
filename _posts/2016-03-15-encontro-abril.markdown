@@ -18,7 +18,7 @@ Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 
 ## Inscrições
 
-<iframe allowtransparency="true" frameborder="0" height="280px" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" src="http://www.eventick.com.br/frevoonrails_fev2015/embedded" vspace="0" width="100%"> </iframe>
+<iframe allowtransparency="true" frameborder="0" height="280px" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" src="http://www.eventick.com.br/frevo-on-rails-abr2016" vspace="0" width="100%"> </iframe>
 
 ## Organização
 
