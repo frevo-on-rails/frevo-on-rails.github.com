@@ -6,15 +6,30 @@ author     : Isadora Barros
 categories : posts, events
 ---
 
+O nosso Xº encontro acontecerá no dia X de abril de 2016 e será no Impact Hub do Recife Antigo. Neste encontro teremos um formato diferente, ele acontecerá à noite durante a semana e teremos apenas duas palestras (máximo de 30 minutos e 5 para perguntas) seguidas de um Happy Hour.
+
 ## Data e Local
 
-02 de Abril de 2016 no [Impact Hub Recife](http://www.impacthubrecife.com/)
+X de Abril de 2016 no [Impact Hub Recife](http://www.impacthubrecife.com/)
 
 Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 
-## Agenda (09:00 - 12:00)
+## Agenda (19:30 - 20:45)
 
-- **Igor Calabria**: "Automation and Workflow: keeping your mind clear for REAL tasks"
+- **19h30** - *Abertura*
+- **19h30 - 20h05** - Implementando domain-driven design com Rails
+- **20h10 - 20h45** - Automation and Workflow: keeping your mind clear for REAL tasks
+- **20h45** - *Happy Hour*
+
+## Palestras
+
+### Implementando domain-driven design com Rails ##
+por Marcelo Theodoro ([ToughtWorks](http://www.thoughtworks.com/))
+
+Depois de uma introdução ao DDD, vamos passar por um caso de implementação real, visitando os desafios e as armadilhas que os frameworks colocam no caminho.
+
+### Automation and Workflow: keeping your mind clear for REAL tasks ##
+por Igor Calabria ([Eloquent Studio](https://www.facebook.com/geteloquent))
 
 ## Inscrições
 
@@ -22,5 +37,8 @@ Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 
 ## Organização
 
-[![Eloquent
-Studio](/images/eloquent-studio.png)](http://facebook.com/geteloquent)
+[![Eloquent Studio](/images/eloquent-studio.png)](http://facebook.com/geteloquent)
+
+## Apoio
+
+[![Impact Hub Recife](http://i.picresize.com/images/2016/03/29/osTvJ.png)](http://www.impacthubrecife.com)
