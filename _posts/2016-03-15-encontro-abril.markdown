@@ -6,11 +6,11 @@ author     : Isadora Barros
 categories : posts, events
 ---
 
-O nosso Xº encontro acontecerá no dia X de abril de 2016 e será no Impact Hub do Recife Antigo. Neste encontro teremos um formato diferente, ele acontecerá à noite durante a semana e teremos apenas duas palestras (máximo de 30 minutos e 5 para perguntas) seguidas de um Happy Hour.
+O próximo encontro será no dia 14 de abril de 2016 no Impact Hub do Recife Antigo. Neste encontro teremos um formato diferente, ele acontecerá à noite durante a semana e teremos apenas duas palestras (máximo de 30 minutos e 5 para perguntas) seguidas de um Happy Hour com o start de cervejas por conta da Eloquent!
 
 ## Data e Local
 
-X de Abril de 2016 no [Impact Hub Recife](http://www.impacthubrecife.com/)
+14 de Abril de 2016 no [Impact Hub Recife](http://www.impacthubrecife.com/)
 
 Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 
