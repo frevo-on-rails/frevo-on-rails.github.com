@@ -24,7 +24,7 @@ Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 ## Palestras
 
 ### Implementando domain-driven design com Rails ##
-por Marcelo Theodoro ([ToughtWorks](http://www.thoughtworks.com/))
+por Marcelo Theodoro ([ThoughtWorks](http://www.thoughtworks.com/))
 
 Depois de uma introdução ao DDD, vamos passar por um caso de implementação real, visitando os desafios e as armadilhas que os frameworks colocam no caminho.
 
