@@ -35,7 +35,7 @@ Ao invés de simplesmente apresentar um workflow visto como eficiente, construir
 
 ## Inscrições
 
-<iframe allowtransparency="true" frameborder="0" height="280px" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" src="http://even.tc/frevo-on-rails-abr-2016" vspace="0" width="100%"> </iframe>
+<iframe src="http://even.tc/frevo-on-rails-abr-2016/embedded" frameborder="0" height="280px" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## Organização
 
