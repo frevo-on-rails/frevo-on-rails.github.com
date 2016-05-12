@@ -18,15 +18,20 @@ Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 
 - **19h15 - 19h30**: *Abertura*
 - **19h30 - 20h05**: From Zero to Hero: Escalando sua aplicação web
-- **20h10 - 20h45**: TBD
+- **20h10 - 20h45**: Como processar 10 milhões de registros por hora com Ruby (ou sim, Ruby escala)
 - **20h45**: *Happy Hour*
 
 ## Palestras
 
-### From Zero to Hero: Escalando sua aplicação web ##
-por Fabricio Darosci Junior ([Resultados Digitais](http://www.resultadosdigitais.com.br/))
+### From Zero to Hero: Escalando sua aplicação web
+por [Fabricio Darosci Junior](https://www.linkedin.com/in/fabriciodaroscijr) ([Resultados Digitais](http://www.resultadosdigitais.com.br/))
 
 Quando nosso produto precisa escalar rapidamente tudo começa a quebrar. Precisamos mudar a maneira como desenvolvemos software, como fizemos deploy e como estruturamos nosso time. Nesta palestra vou apresentar como o time de produto da Resultados Digitais, teve que se adaptar para um crescimento de 300 para 3000 clientes.
+
+### Como processar 10 milhões de registros por hora com Ruby (ou sim, Ruby escala)
+por [Lailson Bandeira](https://br.linkedin.com/in/lailsonbm) ([Guava Software](http://guava.com.br))
+
+Ruby é uma das últimas escolhas pra quem precisa construir aplicações de alta performance. Afinal, a gente sempre ouve falar que a linguagem é lenta e não escala, certo? Bam! Nesta palestra vamos mostrar que isso não é verdade contando o caso da E.Life, que processa mais de 450 GB de dados por dia usando Ruby em uma estrutura super enxuta de servidores. Sim, é possível construir um sistema de alta performance com Ruby que consome poucos recursos.
 
 ## Inscrições
 
