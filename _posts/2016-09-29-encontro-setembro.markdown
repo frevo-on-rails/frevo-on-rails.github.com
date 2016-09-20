@@ -6,7 +6,7 @@ author     : Guilherme Cavalcanti
 categories : posts, events
 ---
 
-No dia 29/09 irá acontecer o próximo encontro do Frevo On Rails. Nesta edição teremos palestras da In Loco Media e ThoughtWorks além daquela cerveja gelada para deixar as ideias fluírem no meetup.
+No dia 06/10 irá acontecer o próximo encontro do Frevo On Rails. Nesta edição teremos palestras da In Loco Media e ThoughtWorks além daquela cerveja gelada para deixar as ideias fluírem no meetup.
 
 O evento acontecerá no Impact Hub Recife Antigo às 19:30 e está contando com o apoio da In Loco Media.
 
@@ -14,7 +14,7 @@ O Frevo é gratuito, mas é necessário confirmar a sua inscrição pois a capac
 
 ## Data e Local
 
-29 de Setembro de 2016 no [Impact Hub Recife](http://www.impacthubrecife.com/)
+06 de Outubro de 2016 no [Impact Hub Recife](http://www.impacthubrecife.com/)
 
 Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 
@@ -28,7 +28,7 @@ Rua do Bom Jesus, 180 - Recife, PE, 50030-170
 ## Palestras
 
 ### Organizando namespaces em Ruby
-por [Alabê Duarte](https://br.linkedin.com/in/alabeduarte) ([ThoughtWorks](https://thoughtworks.com/))
+por Isadora Forte ([ThoughtWorks](https://thoughtworks.com/))
 
 Ruby é uma linguagem fácil de se apaixonar e de se aprender. Entretanto, ao passo que começamos a ficar imersos na linguagem, a liberdade que a linguagem nos dá pode deixar de ser uma valiosa aliada e sim passar a ser uma emboscada para evoluir o nosso código. Que tal separar o nosso código em namespaces, organizar nossos arquivos em diferentes diretórios? Como posso estar preparado para desenvolver em uma base de código que não seja apenas Rails?
 
