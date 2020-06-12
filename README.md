@@ -5,7 +5,7 @@ O website do grupo de usuários de Ruby e Rails de Pernambuco!
 # Instruções
 
 1. Instale as dependências usando `bundle install`
-2. Inicie o servidor de desenvolvimento usando `$ jekyll serve --watch`
+2. Inicie o servidor de desenvolvimento usando `$ bin/jekyll serve --watch`
 
 # Contribuições
 
