@@ -43,7 +43,7 @@ co-idealizadora do coletivo [Mulheres de T.I. em Recife](https://www.mulheresdet
 
 ## Inscrições
 
-[Meetup: Frevo on Rails Online #2]()
+[Meetup: Frevo on Rails Online #2](https://www.meetup.com/Frevo-on-Rails/events/271939568/)
 
 ## Organização
 
