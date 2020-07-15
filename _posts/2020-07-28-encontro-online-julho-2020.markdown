@@ -10,14 +10,6 @@ categories : posts, events
 
 28 de Julho de 2020 às 19h no YouTube (link em breve).
 
-## Celebração do 25 de Julho
-
-No mês em que é celebrado o Dia Internacional da Mulher Negra Latino-Americana e
-Caribenha, 25 de Julho, teremos um evento dominado pela presença feminina. A
-[#GuavaPatrocina](https://twitter.com/search?q=%23GuavaPatrocina) a causa das
-mulheres negras na tecnologia. Se você também quiser apoiar, participe do
-[#JulhoDasPretas](https://www.sympla.com.br/julhodaspretas-apoio-ao-dia-internacional-da-mulher-negra-latino-americana-e-caribenha__900780).
-
 ## Agenda
 
 - 19:00h~19:40h  ~ Anicely Santos
