@@ -8,7 +8,7 @@ categories : posts, events
 
 ## Data e Local
 
-28 de Julho de 2020 às 19h no YouTube (link em breve).
+28 de Julho de 2020 às 19h no [YouTube](https://www.youtube.com/watch?v=C08Dv7KspYI).
 
 ## Agenda
 
