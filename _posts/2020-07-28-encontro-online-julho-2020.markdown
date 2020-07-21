@@ -12,9 +12,9 @@ categories : posts, events
 
 ## Agenda
 
-- 19:00h~19:40h  ~ Anicely Santos
+- 19:00h~19:40h  ~ Anicely Santos ~ Sankofa: uma jornada negra na tecnologia
 - 19:50h~20:20h  ~ Carolina Brito ~ Transição de carreira: do analógico ao digital
-- 20:30h~21:00h  ~ Thaís Bione
+- 20:30h~21:00h  ~ Thaís Bione ~ Tu era dev, nera?
 
 ## Palestrantes
 
