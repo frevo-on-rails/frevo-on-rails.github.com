@@ -12,9 +12,9 @@ categories : posts, events
 
 ## Agenda
 
-- 19:00h~19:30h ~ Todo mundo ~ Rodada de Apresentações
-- 19:30h~20:00h ~ Isadora Barros ~ Pague suas dívidas técnicas!
-- 20:15h~20:45h ~ Paulo Fernandes ~ Rswag = Testes + Doc
+- 19:00h~19:30h ~ Todo mundo ~ Rodada de Apresentações [vídeo][vídeo-intro]
+- 19:30h~20:00h ~ Isadora Barros ~ Pague suas dívidas técnicas! [vídeo][vídeo-isa]
+- 20:15h~20:45h ~ Paulo Fernandes ~ Rswag = Testes + Doc [vídeo][vídeo-paulo] [slides][slides-paulo] [tutorial][tutorial-paulo]
 
 ## Palestrantes
 
@@ -41,3 +41,9 @@ desenvolvedor na Roadmaps.
 ## Organização
 
 [Matheus Santana](https://www.linkedin.com/in/matheus-santana-78b5a31b/)
+
+[vídeo-intro]: https://youtu.be/sm1hFzdm2vM?t=68
+[vídeo-isa]: https://example.com
+[vídeo-paulo]: https://example.com
+[slides-paulo]: https://romantic-volhard-159585.netlify.app/#0
+[tutorial-paulo]: https://github.com/pernambucano/frevo-on-rails-rswag-tutorial
