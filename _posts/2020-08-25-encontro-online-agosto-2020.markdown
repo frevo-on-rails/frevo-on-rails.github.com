@@ -12,7 +12,7 @@ categories : posts, events
 
 ## Agenda
 
-- 19:00h~19:30h ~ Todo mundo ~ Rodada de Apresentações [vídeo][vídeo-intro]
+- 19:00h~19:30h ~ Todo mundo ~ Rodada de Apresentações [vídeo1][vídeo-intro1] [vídeo2][vídeo-intro2]
 - 19:30h~20:00h ~ Isadora Barros ~ Pague suas dívidas técnicas! [vídeo][vídeo-isa]
 - 20:15h~20:45h ~ Paulo Fernandes ~ Rswag = Testes + Doc [vídeo][vídeo-paulo] [slides][slides-paulo] [tutorial][tutorial-paulo]
 
@@ -42,8 +42,9 @@ desenvolvedor na Roadmaps.
 
 [Matheus Santana](https://www.linkedin.com/in/matheus-santana-78b5a31b/)
 
-[vídeo-intro]: https://youtu.be/sm1hFzdm2vM?t=68
-[vídeo-isa]: https://example.com
-[vídeo-paulo]: https://example.com
+[vídeo-intro1]: https://youtu.be/sm1hFzdm2vM?t=68
+[vídeo-intro2]: https://youtu.be/cPR-5U8NZoY?t=125
+[vídeo-isa]: https://youtu.be/cPR-5U8NZoY?t=951
+[vídeo-paulo]: https://youtu.be/cPR-5U8NZoY?t=3623
 [slides-paulo]: https://romantic-volhard-159585.netlify.app/#0
 [tutorial-paulo]: https://github.com/pernambucano/frevo-on-rails-rswag-tutorial
