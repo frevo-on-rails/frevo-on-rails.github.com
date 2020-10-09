@@ -1,7 +1,7 @@
 ---
 layout     : post
 title      : "Encontro Online de Outubro/2020"
-date       : 2020-08-05 08:57:00
+date       : 2020-10-09 08:57:00
 author     : Artur Montenegro
 categories : posts, events
 ---
