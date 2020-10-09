@@ -34,7 +34,7 @@ categories : posts, events
 
 ## Inscrições
 
-[Meetup: Encontro Online de Outubro/2020](https://www.meetup.com/Frevo-on-Rails/events/272376573/)
+[Meetup: Encontro Online de Outubro/2020](https://www.meetup.com/Frevo-on-Rails/events/273821083)
 
 ## Organização
 
