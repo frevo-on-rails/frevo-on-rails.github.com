@@ -8,7 +8,7 @@ categories : posts, events
 
 ## Data e Local
 
-22 de Outubro de 2020 às 19h no [Zoom](https://us04web.zoom.us/j/72229845665?pwd=UzVpUU9sRDVlS0dMK0FRTFptVFQ4UT09).
+22 de Outubro de 2020 às 19h no ? (a gente ainda tá vendo a ferramenta que vai usar: mais novidades em breve).
 
 ## Agenda
 
