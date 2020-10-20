@@ -8,7 +8,7 @@ categories : posts, events
 
 ## Data e Local
 
-22 de Outubro de 2020 às 19h no ? (a gente ainda tá vendo a ferramenta que vai usar: mais novidades em breve).
+22 de Outubro de 2020 às 19h no [Meet](http://meet.google.com/muh-epzo-nkd).
 
 ## Agenda
 
