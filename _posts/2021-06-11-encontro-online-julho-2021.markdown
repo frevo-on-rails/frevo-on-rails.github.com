@@ -18,7 +18,7 @@ A definir mas provavelmente StreamYard.
 
 - 19:00h~19:30h ~ Todo mundo ~ Rodada de Apresentações? Bate papo?
 - 19:30h~20:00h ~ Leonardo Brito
-- 20:15h~20:45h ~ Brunno Gomes ~ Stimulus Reflex: Uma alternativa à arquitetura de Single Page Applications
+- 20:00h~21:00h ~ Brunno Gomes ~ Stimulus Reflex: Uma alternativa à arquitetura de Single Page Applications
 
 ## Palestrantes
 
