@@ -23,7 +23,7 @@ More phone numbers: https://tel.meet/xgn-ftid-oyw?pin=1509659499663
 
 - 19:00h~19:30h ~ Leonardo Brito ~ Distribuindo recursos - o segredo agora é outro
 - 19:30h~20:30h ~ Brunno Gomes ~ Stimulus Reflex: Uma alternativa à arquitetura de Single Page Applications
-- 23:00h~21:00h ~ Mesa Redonda ~ O mercado de TI dos dias contemporâneos
+- 20:30h~21:00h ~ Mesa Redonda ~ O mercado de TI dos dias contemporâneos
 
 ## Palestrantes
 
