@@ -12,12 +12,7 @@ categories : posts, events
 
 ## Ferramenta (Local): Google Meet
 
-Frevo on Rails 02 de Julho de 2021
-Friday, July 2 · 7:00 – 9:00pm
-Google Meet joining info
-Video call link: https://meet.google.com/xgn-ftid-oyw
-Or dial: (BR) +55 19 4560-9976 PIN: 371 379 771#
-More phone numbers: https://tel.meet/xgn-ftid-oyw?pin=1509659499663
+https://meet.google.com/xgn-ftid-oyw
 
 ## Agenda
 
