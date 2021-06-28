@@ -10,15 +10,20 @@ categories : posts, events
 
 02 de Julho de 2021 às 19h.
 
-## Ferramenta (Local)
+## Ferramenta (Local): Google Meet
 
-A definir mas provavelmente StreamYard.
+Frevo on Rails 02 de Julho de 2021
+Friday, July 2 · 7:00 – 9:00pm
+Google Meet joining info
+Video call link: https://meet.google.com/xgn-ftid-oyw
+Or dial: (BR) +55 19 4560-9976 PIN: 371 379 771#
+More phone numbers: https://tel.meet/xgn-ftid-oyw?pin=1509659499663
 
 ## Agenda
 
-- 19:00h~19:30h ~ Todo mundo ~ Rodada de Apresentações? Bate papo?
-- 19:30h~20:00h ~ Leonardo Brito
-- 20:00h~21:00h ~ Brunno Gomes ~ Stimulus Reflex: Uma alternativa à arquitetura de Single Page Applications
+- 19:00h~19:30h ~ Leonardo Brito ~ Distribuindo recursos - o segredo agora é outro
+- 19:30h~20:30h ~ Brunno Gomes ~ Stimulus Reflex: Uma alternativa à arquitetura de Single Page Applications
+- 23:00h~21:00h ~ Mesa Redonda ~ O mercado de TI dos dias contemporâneos
 
 ## Palestrantes
 
