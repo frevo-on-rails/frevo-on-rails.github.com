@@ -12,7 +12,7 @@ categories : posts, events
 
 ## Ferramenta (Local): Google Meet
 
-https://meet.google.com/xgn-ftid-oyw
+[https://meet.google.com/xgn-ftid-oyw](https://meet.google.com/xgn-ftid-oyw)
 
 ## Agenda
 
