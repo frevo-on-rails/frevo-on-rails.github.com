@@ -45,3 +45,7 @@ categories : posts, events
 ## Inscrições
 
 [https://www.linkedin.com/events/frevoonrails02dejulhode20216815028364269674496/](https://www.linkedin.com/events/frevoonrails02dejulhode20216815028364269674496/)
+
+## Apoio
+
+[Guava Software](https://guava.software)
