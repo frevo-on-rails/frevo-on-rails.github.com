@@ -44,4 +44,4 @@ categories : posts, events
 
 ## Inscrições
 
-Por enquanto não precisa se inscrever. Talvez a gente lance um form em breve.
+[https://www.linkedin.com/events/frevoonrails02dejulhode20216815028364269674496/](https://www.linkedin.com/events/frevoonrails02dejulhode20216815028364269674496/)
