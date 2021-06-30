@@ -6,6 +6,8 @@ author     : Matheus Santana
 categories : posts, events
 ---
 
+A maior comunidade Ruby em linha reta do mundo convida pro seu próximo encontro, que será online!
+
 ## Data e hora
 
 02 de Julho de 2021 às 19h.
