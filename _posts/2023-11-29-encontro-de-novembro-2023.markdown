@@ -18,11 +18,10 @@ A maior comunidade Ruby em linha reta do mundo convida para o seu próximo encon
 
 ## Agenda
 
-- 18:00h~19:00h ~ Abertura / Credenciamento
-- 19:00h~19:45h ~ Rafael Aschoff vulgo Roque ~ Protecting Sidekiq jobs and improving their reliability on AWS fargate spot instances
-- 19:45h~20:15h ~ Coffee Break
-- 20:15h~21:00h ~ Cirdes Henrique vulgo Cidão ~ Rails World and Foundation - O que isso significa para o presente e o futuro do Rails
-- 21:00h~21:30h ~ Mesa Redonda ~ O que nos empolga no Rails quase 20 anos depois do lançamento?
+- 18:00h~19:00h ~ Credenciamento / Coffee Break
+- 19:00h~19:40h ~ Rafael Aschoff vulgo Roque ~ Protecting Sidekiq jobs and improving their reliability on AWS fargate spot instances
+- 19:45h~20:25h ~ Cirdes Henrique vulgo Cidão ~ Rails World and Foundation - O que isso significa para o presente e o futuro do Rails
+- 20:30h~22:00h ~ Mesa Redonda ~ O que nos empolga no Rails quase 20 anos depois do lançamento?
 
 ## Palestrantes
 
