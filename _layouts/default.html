@@ -1,80 +1,91 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width">
 
-    <!-- syntax highlighting CSS -->
-    <link rel="stylesheet" href="/css/syntax.css">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/frevo.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-    <script src="/js/frevo.js"></script>
-  </head>
-  <body>
-    <div class="container">
-      <header class="header">
-        <h1 class="logo"><a href="/" class="logo-for replacement">Frevo on Rails</a></h1>
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/syntax.css">
 
-        <ul class="social-networks">
-          <img src="/images/logo-big.png">
-          <p>Grupo de desenvolvedores de Ruby / Rails de Pernambuco</p>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/frevo.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+  <script src="/js/frevo.js"></script>
+</head>
 
-          <li><a href="http://github.com/frevo-on-rails" class="github replacement" target="_blank">github.com/frevoonrails</a> </li>
-          <li><a href="http://twitter.com/abrilproruby" class="twitter replacement" target="_blank">twitter.com/abrilproruby</a> </li>
-          <li><a href="http://www.facebook.com/frevoonrails" class="facebook replacement" target="_blank">facebook.com/frevoonrails</a> </li>
-        </ul>
-      </header>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1 class="logo"><a href="/" class="logo-for replacement">Frevo on Rails</a></h1>
 
-      <nav class="menu">
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">home</a></h1>
-            <a class="extra" href="/sobre">sobre</a>
-            <a class="extra" href="/encontros">encontros</a>
-            <a class="extra" href="/guia_organizacao">guia</a>
-            <a class="extra" href="https://groups.google.com/forum/?fromgroups#!forum/frevo-on-rails">grupo</a>
+      <ul class="social-networks">
+        <img src="/images/logo-big.png">
+        <p>Grupo de desenvolvedores de Ruby / Rails de Pernambuco</p>
+
+        <li><a href="http://github.com/frevo-on-rails" class="github replacement"
+            target="_blank">github.com/frevoonrails</a> </li>
+        <li><a href="http://twitter.com/abrilproruby" class="twitter replacement"
+            target="_blank">twitter.com/abrilproruby</a> </li>
+        <li><a href="http://www.facebook.com/frevoonrails" class="facebook replacement"
+            target="_blank">facebook.com/frevoonrails</a> </li>
+      </ul>
+    </header>
+
+    <nav class="menu">
+      <div class="site">
+        <div class="header">
+          <h1 class="title"><a href="/">home</a></h1>
+          <a class="extra" href="/sobre">sobre</a>
+          <a class="extra" href="/encontros">encontros</a>
+          <a class="extra" href="/guia_organizacao">guia</a>
+          <a class="extra" href="https://t.me/frevoonrails" target="_blank">grupo</a>
+        </div>
+
+        <div class="content">
+          {{ content }}
+        </div>
+
+        <div class="footer">
+          <div class="logo_footer">
+            <img src="/images/logo-for-small-pb.png">
           </div>
 
-          <div class="content">
-            {{ content }}
+          <div class="for_footer">
+            <span class="for_bold">frevo on rails</span>, 2020
           </div>
 
-          <div class="footer">
-            <div class="logo_footer">
-              <img src="/images/logo-for-small-pb.png">
-            </div>
-
-            <div class="for_footer">
-              <span class="for_bold">frevo on rails</span>, 2020
-            </div>
-
-            <div class="links_footer">
-              <a rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">RSS</a> |
-              <a href="https://github.com/frevo-on-rails">GitHub</a> |
-              <a href="http://twitter.com/abrilproruby">Twitter</a> |
-              <a href="http://www.facebook.com/frevoonrails">Facebook</a> |
-              <a href="http://groups.google.com/group/frevo-on-rails">Google Groups</a>
-            </div>
+          <div class="links_footer">
+            <a rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">RSS</a>
+            |
+            <a href="https://github.com/frevo-on-rails">GitHub</a> |
+            <a href="http://twitter.com/abrilproruby">Twitter</a> |
+            <a href="http://www.facebook.com/frevoonrails">Facebook</a> |
+            <a href="http://groups.google.com/group/frevo-on-rails">Google Groups</a>
           </div>
         </div>
       </div>
-    </div>
+  </div>
+  </div>
 
-    <a href="https://github.com/frevo-on-rails/frevo-on-rails.github.com"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+  <a href="https://github.com/frevo-on-rails/frevo-on-rails.github.com"><img
+      style="position: absolute; top: 0; right: 0; border: 0;"
+      src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-      ga('create', 'UA-41114433-1', 'frevoonrails.com.br');
-      ga('send', 'pageview');
-    </script>
-  </body>
+    ga('create', 'UA-41114433-1', 'frevoonrails.com.br');
+    ga('send', 'pageview');
+  </script>
+</body>
+
 </html>
