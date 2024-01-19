@@ -31,9 +31,9 @@ A definir, mas vai ser presencial 😛
 
 ## Organizadores
 
-### Nathan Morais
+### Nathannael Morais
 
-[Nathan](#) Software Engineer
+[Nathan](https://www.linkedin.com/in/nathannael) Software Engineer
 
 ### Walmir Neto
 
