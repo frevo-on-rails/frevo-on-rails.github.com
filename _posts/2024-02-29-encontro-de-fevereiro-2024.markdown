@@ -14,7 +14,7 @@ A maior comunidade Ruby em linha reta do mundo convida para o próximo encontro.
 
 ## Local: A definir
 
-A definir, mas vai ser presencial 😛
+[Auditório do Centro de Informatica da UFPE (CIn)](https://maps.app.goo.gl/jAPMxzx9W6kfDUDz7)
 
 ## Agenda
 
