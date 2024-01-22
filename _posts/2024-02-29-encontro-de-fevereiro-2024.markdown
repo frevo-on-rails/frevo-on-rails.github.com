@@ -12,7 +12,7 @@ A maior comunidade Ruby em linha reta do mundo convida para o próximo encontro.
 
 29 de Fevereiro de 2024 às 18h.
 
-## Local: A definir
+## Local
 
 [Auditório do Centro de Informatica da UFPE (CIn)](https://maps.app.goo.gl/jAPMxzx9W6kfDUDz7)
 
