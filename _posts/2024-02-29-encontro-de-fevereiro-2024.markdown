@@ -35,6 +35,10 @@ A maior comunidade Ruby em linha reta do mundo convida para o próximo encontro.
 
 [Nathan](https://www.linkedin.com/in/nathannael) Software Engineer
 
+### Sara Lins
+
+[Sara](https://www.linkedin.com/in/saranicoly) Software Developer @ Luizalabs
+
 ### Walmir Neto
 
 [Walmir](https://walmir.dev) Web Software Developer @ Lavenda
