@@ -27,4 +27,4 @@ Um mói de gente, [olha lá]!
 O código desse projeto é open source e liberado sob a licença do MIT. Veja o arquivo LICENSE.txt para mais detalhes.
 
 [Issues existentes]: https://github.com/frevo-on-rails/site/issues
-[olha lá]: https://github.com/frevo-on-rails/frevo-on-rails.github.com/network
+[olha lá]: https://github.com/frevo-on-rails/frevo-on-rails.github.com/contributors
