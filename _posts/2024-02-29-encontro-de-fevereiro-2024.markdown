@@ -6,7 +6,7 @@ author     : Walmir Neto
 categories : posts, events
 ---
 
-A maior comunidade Ruby em linha reta do mundo convida para o próximo encontro... E dessa vez será "mais próximo da suas origens", o carnaval, se somos frevo que seja no mês de carnaval 🥳
+A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontro... E dessa vez ele ocorrerá "mais próximo das suas origens": o carnaval! Se somos frevo, que seja no mês de carnaval! 🥳
 
 ## Data e hora
 
