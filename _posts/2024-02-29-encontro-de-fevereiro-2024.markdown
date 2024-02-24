@@ -21,7 +21,7 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 - 18:00h~19:00h ~ Credenciamento / Coffee Break
 - 19:00h~19:40h ~ Matheus Santana ~ Como usar o AWS Lambda como back-end do Active Job
 - 19:45h~20:25h ~ Eric de Lima & Matheus Alves ~ Como Ruby entrou em nossas vidas
-- 20:30h~22:00h ~ Mesa Redonda AKA Rubirita ~ Vai rolar, viu! 😉
+- 20:30h~22:00h ~ Mesa Redonda ~ Vai rolar, viu! 😉
 
 ## Organizadores
 
