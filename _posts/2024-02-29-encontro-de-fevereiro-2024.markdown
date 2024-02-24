@@ -3,7 +3,7 @@ layout     : post
 title      : "Encontro de Fevereiro/2024"
 date       : 2024-01-19 10:00:00
 author     : Walmir Neto
-categories : posts,events
+categories : posts, events
 ---
 
 A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontro... E dessa vez ele ocorrerá "mais próximo das suas origens": o carnaval! Se somos frevo, que seja no mês de carnaval! 🥳
