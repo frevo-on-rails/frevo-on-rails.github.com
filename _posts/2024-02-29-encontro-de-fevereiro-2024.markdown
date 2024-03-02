@@ -19,7 +19,7 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 ## Agenda
 
 - 18:00h~19:00h ~ Credenciamento / Coffee Break
-- 19:00h~19:40h ~ Matheus Santana ~ Como usar o AWS Lambda como back-end do Active Job
+- 19:00h~19:40h ~ Matheus Santana ~ Como usar o AWS Lambda como backend do Active Job
 - 19:45h~20:25h ~ Eric de Lima & Matheus Alves ~ Como Ruby entrou em nossas vidas
 - 20:30h~22:00h ~ Mesa Redonda ~ Vai rolar, viu! 😉
 
@@ -44,4 +44,23 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 ## Apoio
 
 ### Praso
+
 [praso.com.br](https://praso.com.br)
+
+## Slides
+
+[Como usar o AWS Lambda como backend do Active Job](/pdfs/como_usar_o_aws_lambda_como_backend_do_activejob.pdf)
+
+## Fotos & Vídeos
+
+![1.jpg](/images/2024-02-29/1.jpg)
+![2.jpg](/images/2024-02-29/2.jpg)
+![3.jpg](/images/2024-02-29/3.jpg)
+![4.jpg](/images/2024-02-29/4.jpg)
+![5.jpg](/images/2024-02-29/5.jpg)
+![6.jpg](/images/2024-02-29/6.jpg)
+[7.MOV](/images/2024-02-29/7.MOV)
+[8.MOV](/images/2024-02-29/8.MOV)
+[9.MOV](/images/2024-02-29/9.MOV)
+[10.MOV](/images/2024-02-29/10.MOV)
+[11.MOV](/images/2024-02-29/11.MOV)
