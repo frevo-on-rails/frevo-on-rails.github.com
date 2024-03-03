@@ -49,7 +49,9 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 
 ## Slides
 
-[Como usar o AWS Lambda como backend do Active Job](/pdfs/como_usar_o_aws_lambda_como_backend_do_activejob.pdf)
+[Matheus Santana ~ Como usar o AWS Lambda como backend do Active Job](/pdfs/como_usar_o_aws_lambda_como_backend_do_activejob.pdf)
+
+[Eric de Lima & Matheus Alves ~ Como o ruby entrou em nossas vidas](https://www.canva.com/design/DAFpw-CkJZ4/yE2Siq1VO3b8JOVsRMqnKg/view)
 
 ## Fotos & Vídeos
 
