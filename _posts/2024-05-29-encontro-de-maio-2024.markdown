@@ -18,17 +18,37 @@ Praso: Rua Sen. José Henrique, 231 - Ilha do Leite, Recife-PE. 50.070-460
 
 ## Agenda
 
-- 18:00h~19:00h ~ Credenciamento / Coffee Break se tiver patrocínio pro coffee
+- 18:00h~19:00h ~ Credenciamento / Coffee Break
 - 19:00h~19:30h ~ Rodada de Apresentações
 - 19:30h~20:00h ~ Alberto Rocha ~ Aplicando Query Objects: Isolando queries complexas com o padrão query object
-- 20:00h~20:30h ~ TBD: Pio ou Lailson
-- 20:30h~22:00h ~ Rubyrita se a gente arranjar patrocínio pra breja
+- 20:00h~20:30h ~ Mesa Redonda ~ O que rolou no Tropical.rb 2024
+- 20:30h~22:00h ~ Rubyrita
 
-## Palestrantes
+## Palestrante
 
 ### Alberto Rocha
 
 [Alberto](https://www.linkedin.com/in/betogrun/) é engenheiro de software senior na ElectionBuddy e trabalha com Ruby desde 2016
+
+## Moderador da mesa redonda
+
+### Lailson Bandeira
+
+[Lailson](https://www.linkedin.com/in/lailsonbm/) Product Leader of Storefront Tools @ VTEX
+
+## Participantes da mesa redonda
+
+### Alberto Rocha
+
+[Alberto](https://www.linkedin.com/in/betogrun/) Senior Software Engineer @ ElectionBuddy
+
+### Crystian Leão
+
+[Crystian](https://www.linkedin.com/in/crystianwendel/) Diretor e desenvolvedor web @ Roadmapps
+
+### Matheus Santana
+
+[Matheus](https://embs.github.io) Staff Software Engineer @ KnowBe4
 
 ## Organizadores
 
