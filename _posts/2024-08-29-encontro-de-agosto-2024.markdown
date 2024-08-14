@@ -64,3 +64,11 @@ A definir
 ### RDMAPPS
 
 [rdmapps.com.br](https://www.rdmapps.com.br)
+
+### KnowBe4
+
+[KnowBe4.com](https://www.knowbe4.com)
+
+### Cervejaria Babylon
+
+[cervejariababylon.com.br](https://cervejariababylon.com.br/)
