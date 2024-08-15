@@ -57,7 +57,7 @@ A definir
 
 ## Inscrições
 
-[Sympla](https://www.sympla.com.br)
+[Sympla](https://www.sympla.com.br/evento/frevo-on-rails-encontro-de-agosto-2024/2596241)
 
 ## Apoio
 
