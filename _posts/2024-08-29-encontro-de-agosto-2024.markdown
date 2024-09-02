@@ -19,15 +19,14 @@ RDMAPPS: Station 125 - Rua do Bom Jesus, 125, 1º Andar
 
 ## Agenda
 
-- 18:00h~19:00h ~ Credenciamento / Coffee Break
-- 19:00h~19:30h ~ Rodada de Apresentações
-- 19:30h~20:00h ~ A definir
-- 20:00h~20:30h ~ A definir
-- 20:30h~22:00h ~ Rubyrita
+- 18:00h~19:30h ~ Credenciamento / Coffee Break / Rubyrita
+- 19:30h~20:30h ~ Client-Side Rendering Considered Harmful? ~ Lailson Bandeira
+- 20:30h~21:00h ~ Rodada de Apresentações
+- 21:00h~22:00h ~ Networking
 
 ## Palestrante
 
-A definir
+[Lailson Bandeira](https://www.linkedin.com/in/lailsonbm/) Product Leader of Storefront Tools @ [VTEX](https://vtex.com/)
 
 ## Organizadores
 
@@ -72,3 +71,72 @@ A definir
 ### Cervejaria Babylon
 
 [cervejariababylon.com.br](https://cervejariababylon.com.br/)
+
+## Fotos
+
+![pic.jpg](/images/2024-08-29/20240829_191639.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191610.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195923.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195729.jpg)
+![pic.jpg](/images/2024-08-29/20240829_192208.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191250.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190752.jpg)
+![pic.jpg](/images/2024-08-29/20240829_200711.jpg)
+![pic.jpg](/images/2024-08-29/20240829_181726.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190720.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191436.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190710.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190857.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195706.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191014.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191603.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190819.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191618.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191753.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190807.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190702.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190728.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190840.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191738.jpg)
+![pic.jpg](/images/2024-08-29/20240829_193316.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190821.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191647.jpg)
+![pic.jpg](/images/2024-08-29/20240829_193639.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190913.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191825.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195140.jpg)
+![pic.jpg](/images/2024-08-29/20240829_200729.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191535.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195937.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191442.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191807.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191039.jpg)
+![pic.jpg](/images/2024-08-29/20240829_192346.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191746.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191413.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195146.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195858.jpg)
+![pic.jpg](/images/2024-08-29/20240829_200521.png)
+![pic.jpg](/images/2024-08-29/20240829_191405.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190700.jpg)
+![pic.jpg](/images/2024-08-29/20240829_2007300.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195024.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191842.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191627.jpg)
+![pic.jpg](/images/2024-08-29/20240829_170307.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190906.jpg)
+![pic.jpg](/images/2024-08-29/20240829_191341.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190735.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190918.jpg)
+![pic.jpg](/images/2024-08-29/20240829_195536.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190932.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190614.jpg)
+![pic.jpg](/images/2024-08-29/20240829_194105.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190742.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190618.jpg)
+![pic.jpg](/images/2024-08-29/20240829_200403.jpg)
+![pic.jpg](/images/2024-08-29/20240829_193608.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190613.jpg)
+![pic.jpg](/images/2024-08-29/20240829_194145.jpg)
+![pic.jpg](/images/2024-08-29/20240829_190655.jpg)
+
