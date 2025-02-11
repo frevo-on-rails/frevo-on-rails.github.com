@@ -10,7 +10,7 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 
 ## Data e hora
 
-26 de Fevereiro, às 18h.
+26 de Fevereiro de 2025, às 18h.
 
 ## Local
 
@@ -18,14 +18,16 @@ A definir.
 
 ## Agenda
 
-- XX:XXh~XX:XXh ~ Rodada de Apresentações
-- XX:XXh~XX:XXh ~ XXXX ~ XXXXX
-- XX:XXh~XX:XXh ~ XXXX ~ XXXXX
-- XX:XXh~XX:XXh ~ Mesa Redonda ~ XXXXX
+- 18:00h~19:00h ~ Credenciamento / Coffee Break
+- 19:00h~19:30h ~ Rodada de Apresentações
+- 19:30h~20:00h ~ SQLite: o que é e por que veio com tudo no Rails 8 com Tiago Silva
+- 20:00h~20:30h ~ A definir
+- 20:30h~22:00h ~ Rubyrita
 
 ## Palestrantes
 
-A definir.
+[Tiago de Farias Silva](https://www.linkedin.com/in/tiagofsilva/) é um desenvolvedor de software apaixonado por computação.
+Trabalha na área desde 2005 e com Rails desde 2013. Já atuou em diversas empresas, passando por startups, consultorias e empresas de grande porte. Atualmente mora em Estocolmo onde trabalha na Mynewsdesk. Adora Monty Python, apesar de gostar mais de Ruby. ;)
 
 ## Organizadores
 
@@ -71,7 +73,7 @@ Walter Silva
 
 ## Inscrições
 
-Em breve.
+[Sympla - Frevo on Rails - Encontro de Fevereiro/2025](https://www.sympla.com.br/evento/frevo-on-rails-encontro-de-fevereiro-2025/2812100)
 
 ## Apoio
 
