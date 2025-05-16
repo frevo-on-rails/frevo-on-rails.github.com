@@ -46,7 +46,7 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 
 ### Lucas Moura
 
-[Lucas Moura](https://www.linkedin.com/in/lucas-santana-moura/) Senior Software Engineer @ [Cast](https://www.castgroup.com.br/pt-br/)
+[Lucas Moura](https://www.linkedin.com/in/lucas-santana-moura/) Senior Software Engineer @ [Cast Group](https://www.castgroup.com.br/pt-br/)
 
 ### Angelo Maia
 
