@@ -68,7 +68,7 @@ Walter Silva
 
 ### Lydianne Corrêa
 
-[Lydianne Corrêa](https://www.linkedin.com/in/lydiannecorrea/) Designer Gráfico | UI UX | Front-End | Pessoa desenvolvedora | Educadora em Design e Tecnologia
+[Lydianne Corrêa](https://www.linkedin.com/in/lydiannecorrea/) Designer Gráfico / UI UX / Front-End / Pessoa desenvolvedora / Educadora em Design e Tecnologia
 
 ## Apoio
 
