@@ -1,7 +1,7 @@
 ---
 layout     : post
 title      : "Encontro de Agosto/2025"
-date       : 2025-08-21 10:00:00
+date       : 2025-07-24 16:55:00
 author     : Matheus Santana
 categories : posts, events
 ---
