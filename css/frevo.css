@@ -233,6 +233,26 @@ h3 {
   background-image: url("../images/logo-facebook-hover.png");
 }
 
+.telegram {
+  display: block;
+  width: 140px;
+  height: 50px;
+  background-image: url("../images/logo-telegram.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-top: 15px;
+}
+
+.whatsapp {
+  display: block;
+  width: 140px;
+  height: 50px;
+  background-image: url("../images/logo-whatsapp.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-top: 15px;
+}
+
 .menu {
   text-align: right;
   width: 140px;
