@@ -1,38 +1,9 @@
 ---
-layout     : post
-title      : "Encontro de Agosto/2025"
-date       : 2025-07-24 16:55:00
-author     : Matheus Santana
-categories : posts, events
+layout: default
+title: Passistas - FrevoOnRails
 ---
 
-A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontro!
-
-## Inscrições
-
-[Luma](https://lu.ma/dsdf0u5n)
-
-## Data e hora
-
-21 de Agosto de 2025, às 18h.
-
-## Local
-
-[Softex Recife, R. da Guia, 142 - Recife, PE](https://maps.app.goo.gl/skKTs1Rng7dSnQ196)
-
-## Agenda
-
-- 18:00h~19:00h ~ Credenciamento / Coffee Break
-- 19:00h~19:30h ~ Rodada de Apresentações
-- 19:30h~20:00h ~ A definir
-- 20:00h~20:30h ~ A definir
-- 20:30h~22:00h ~ A definir
-
-## Palestrantes
-
-A definir
-
-## Organizadores
+## Passistas
 
 ### Matheus Santana
 
@@ -73,13 +44,3 @@ Walter Silva
 ### Lydianne Corrêa
 
 [Lydianne Corrêa](https://www.linkedin.com/in/lydiannecorrea/) Designer Gráfico / UI UX / Front-End / Pessoa desenvolvedora / Educadora em Design e Tecnologia
-
-## Apoio
-
-#### Ruby Central
-#### Fastly
-#### Softex
-#### Cervejaria Babylon
-#### KnowBe4
-#### Rdmapps / @station_work_br
-#### Padaria Espinheiro
